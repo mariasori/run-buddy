@@ -12,3 +12,5 @@ https:mariasori.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Maria Sori
+
+### ©️2019 Run Buddy, Inc 
